@@ -1,0 +1,4 @@
+decord
+moviepy
+demucs
+faster-whisper
